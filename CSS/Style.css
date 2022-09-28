@@ -1,0 +1,81 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Primertitulo{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color:white;
+    height: 200px;
+}
+#menuprincipal{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    height: 100px;
+   
+}
+.menu{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    background-color: azure;
+    border-radius: 5px;
+    width: 160px;
+    margin: 5px 10px 5px 10px;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+article{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    height: 350px;
+}
+#contenido{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color:white;
+    height: 400px;
+}
+footer{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    height: 100px;
+    color: black;
+}
+#imagenes{
+    width: auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:white;
+}
